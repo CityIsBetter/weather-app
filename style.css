@@ -4,7 +4,7 @@
     padding: 0;
     list-style: none;
     text-decoration: none;
-    font-family: 'Montserrat';    
+    font-family: 'Montserrat';
     overflow: hidden;
 }
 body{
@@ -15,7 +15,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 92vh;
     margin: 0;
 
 }
