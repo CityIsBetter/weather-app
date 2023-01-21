@@ -12,10 +12,10 @@ body{
     background-size: cover;
 }
 .body{
+    height: 93vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 93vh;
     margin: 0;
 
 }
